@@ -1,0 +1,7 @@
+﻿1/19/18-Set up .c file with fundamental functions. Made Makefile.
+1/20/18-Board can now be cleared and printed.
+1/21/18-Rooms will now be generated and will be placed correctly within the map.
+1/22/18-Straight hallways will be placed between rooms. Completed README and submitted.
+
+1/29/18-Started on 1.02. Reviewed notes and started on reading file from disk.
+1/30/18-Finished up Assignment.

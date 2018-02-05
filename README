@@ -1,0 +1,20 @@
+Nick Schneider
+ComS 327
+Assingment 1.01 Dungeon Generation
+README
+
+This submission should satisfy all functionality outlined in the PDF.
+
+List of new functions
+
+read_file() 
+    This function takes care of nearly all work done to read a dungeon from disk. It uses the path specified in the PDF and fread() to acomplish this.
+
+write_file()
+    This function takes care of nearly all work done to write a dungeon to the disk. It uses the path specified in the PDF and fwrite() to acomplish this.
+
+fill_hardness()
+    This funtion fills an array called hardness that stores all the hardness values of the dungeon in order to write them to disk.
+
+fill_map()
+    This function transfers the contents of a hardness array to the map saved im memory.
